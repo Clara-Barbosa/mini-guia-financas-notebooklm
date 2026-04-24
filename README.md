@@ -7,6 +7,10 @@ Este notebook foi desenvolvido com o objetivo de ajudar pessoas que não possuem
 A proposta é apresentar temas como controle de gastos, juros e planejamento financeiro de maneira clara, utilizando exemplos do dia a dia e explicações diretas. Com o apoio da Inteligência Artificial, o conteúdo foi organizado para facilitar o aprendizado e incentivar decisões financeiras mais conscientes.
 
 ---
+## 🔗 Acesso ao Notebook
+
+Você pode acessar o notebook completo neste link:  
+[NotebookLM](https://notebooklm.google.com/notebook/84276749-65da-47b4-b1cb-a61af13c9af0 )
 
 ## 📌 Contexto
 
