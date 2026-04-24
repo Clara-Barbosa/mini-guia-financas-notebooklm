@@ -1,6 +1,6 @@
 # 📊 Mini Guia de Estudos com IA - Educação Financeira
 
-## 📝 Resumo do Projeto
+## 📝 Resumo do Projeto 
 
 Este notebook foi desenvolvido com o objetivo de ajudar pessoas que não possuem conhecimento em educação financeira a entenderem conceitos básicos de forma simples e acessível.
 
